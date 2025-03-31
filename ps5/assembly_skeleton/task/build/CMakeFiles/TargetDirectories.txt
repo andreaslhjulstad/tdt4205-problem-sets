@@ -1,0 +1,3 @@
+/mnt/c/Users/andre/Documents/øvinger/tdt4205/ps5/assembly_skeleton/task/build/CMakeFiles/modulo.dir
+/mnt/c/Users/andre/Documents/øvinger/tdt4205/ps5/assembly_skeleton/task/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/andre/Documents/øvinger/tdt4205/ps5/assembly_skeleton/task/build/CMakeFiles/rebuild_cache.dir

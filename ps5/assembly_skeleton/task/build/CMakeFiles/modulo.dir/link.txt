@@ -1,0 +1,1 @@
+/usr/bin/cc  -z noexecstack CMakeFiles/modulo.dir/src/modulo.S.o -o modulo 
