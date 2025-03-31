@@ -1,0 +1,17 @@
+Table filled!
+line    1: error: dx= // Comment
+~~~~~~~~~~~~~~~~~~~~~^
+line    2: error: go go goooo
+~~~~~~~~~~~~~~~~~~~~~~~~~~^
+line    3: error: dy=11dx=11
+~~~~~~~~~~~~~~~~~~~~~~~^
+line    4: error: -5: go
+~~~~~~~~~~~~~~~~~~^
+line    5: error: go / Comment
+~~~~~~~~~~~~~~~~~~~~~~^
+line    6: error: 8: dy=42 dx=4.2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+line    7: error: I beheld the wretch—the miserable monster whom I had created
+~~~~~~~~~~~~~~~~~~^
+line    8: error: apple pie
+~~~~~~~~~~~~~~~~~~^

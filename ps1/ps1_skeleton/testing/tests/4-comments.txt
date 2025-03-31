@@ -1,0 +1,8 @@
+// This file contains tests
+//Spacesaftercommentshouldnotmatter
+go go go // This should be accepted
+10: dx=10 dy=-5 go // This should also be accepted
+dx=-1 dy=5 go /* This should fail! */
+go go // dx=-4.2 should be accepted
+//
+go / We need two slashes

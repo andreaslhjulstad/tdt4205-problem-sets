@@ -1,0 +1,8 @@
+Table filled!
+line    1: accepted: go   go dx=1 go
+line    2: accepted: go // OK
+line    3: accepted: 9: dx=-1 //
+line    4: accepted: 10: //
+line    5: accepted: dy=-9     // Not dy=--9
+line    6: accepted: 00: dx=-0001 go
+line    7: accepted: 94124543535: dx=94124543535 go dy=-111 go // End

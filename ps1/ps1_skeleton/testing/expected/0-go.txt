@@ -1,0 +1,10 @@
+Table filled!
+line    1: accepted: go
+line    2: error: apple
+~~~~~~~~~~~~~~~~~~^
+line    3: accepted: go
+line    4: error: banana
+~~~~~~~~~~~~~~~~~~^
+line    5: accepted: go
+line    6: error: orange
+~~~~~~~~~~~~~~~~~~^

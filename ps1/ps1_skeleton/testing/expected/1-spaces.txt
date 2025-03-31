@@ -1,0 +1,8 @@
+Table filled!
+line    1: accepted: go
+line    2: accepted: go go
+line    3: error: go gogo
+~~~~~~~~~~~~~~~~~~~~~~~^
+line    4: accepted:  go go go  go go go 
+line    5: error: gogo gogo
+~~~~~~~~~~~~~~~~~~~~^

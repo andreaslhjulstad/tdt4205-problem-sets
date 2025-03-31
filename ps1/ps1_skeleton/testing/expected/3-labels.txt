@@ -1,0 +1,10 @@
+Table filled!
+line    1: accepted: 8: go
+line    2: accepted: 10: dx=1
+line    3: error: -11: go go
+~~~~~~~~~~~~~~~~~~^
+line    4: accepted: 100: go dx=5
+line    5: error: apple: go
+~~~~~~~~~~~~~~~~~~^
+line    6: error: go: go
+~~~~~~~~~~~~~~~~~~~~^

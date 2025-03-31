@@ -1,0 +1,11 @@
+Table filled!
+line    1: accepted: // This file contains tests
+line    2: accepted: //Spacesaftercommentshouldnotmatter
+line    3: accepted: go go go // This should be accepted
+line    4: accepted: 10: dx=10 dy=-5 go // This should also be accepted
+line    5: error: dx=-1 dy=5 go /* This should fail! */
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+line    6: accepted: go go // dx=-4.2 should be accepted
+line    7: accepted: //
+line    8: error: go / We need two slashes
+~~~~~~~~~~~~~~~~~~~~~~^

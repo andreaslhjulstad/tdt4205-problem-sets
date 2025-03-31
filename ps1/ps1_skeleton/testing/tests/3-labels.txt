@@ -1,0 +1,6 @@
+8: go
+10: dx=1
+-11: go go
+100: go dx=5
+apple: go
+go: go

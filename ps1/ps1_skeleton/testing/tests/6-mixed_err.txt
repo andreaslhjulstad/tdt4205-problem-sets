@@ -1,0 +1,8 @@
+dx= // Comment
+go go goooo
+dy=11dx=11
+-5: go
+go / Comment
+8: dy=42 dx=4.2
+I beheld the wretch—the miserable monster whom I had created
+apple pie

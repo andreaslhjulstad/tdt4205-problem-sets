@@ -1,0 +1,13 @@
+dx=2
+dy=3
+dx=9
+dx=55
+dy=09
+dx=5 dx=1 go
+da=1
+indy=1
+dx=999
+dy=-10
+dx=--5
+dx=-0 dy=55 go dx=197 dy=-2
+dx=20     dy=20
